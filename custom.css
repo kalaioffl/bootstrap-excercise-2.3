@@ -1,0 +1,19 @@
+.customdiv{
+	margin : 3px;
+	background-color: #f0f5fc;
+	font-size: medium;
+}
+header{
+	text-align: center;
+	background-color: coral;
+	font-family: 'DM Serif Text', serif;
+
+}
+.sidebar{
+     font-family: 'DM Serif Text', serif;
+    
+}
+h2{
+	text-align: center;
+	font-family: 'DM Serif Text', serif;
+}
